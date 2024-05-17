@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\bin\Debug\net6.0\Restorann.Data.deps.json
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\bin\Debug\net6.0\Restorann.Data.dll
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\bin\Debug\net6.0\Restorann.Data.pdb
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\obj\Debug\net6.0\Restorann.Data.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\obj\Debug\net6.0\Restorann.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\obj\Debug\net6.0\Restorann.Data.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\obj\Debug\net6.0\Restorann.Data.AssemblyInfo.cs
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\obj\Debug\net6.0\Restorann.Data.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\obj\Debug\net6.0\Restorann.Data.dll
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\obj\Debug\net6.0\refint\Restorann.Data.dll
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\obj\Debug\net6.0\Restorann.Data.pdb
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\obj\Debug\net6.0\ref\Restorann.Data.dll
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\bin\Debug\net6.0\Restorann.Data.runtimeconfig.json
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\obj\Debug\net6.0\Restorann.Data.genruntimeconfig.cache
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\bin\Debug\net6.0\Restorann.Core.dll
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\bin\Debug\net6.0\Restorann.Core.pdb
+C:\Users\classtime\source\repos\Restorann\Restorann.Data\obj\Debug\net6.0\Restorann.Data.csproj.CopyComplete

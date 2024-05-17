@@ -1,0 +1,26 @@
+﻿@using Restorann.Core.Models;
+@model Chef
+
+<div class="container">
+    <div class="row">
+        <div col-6>
+            <form asp-action="DeletePost" method="post">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="~/uploads/members/@Model.ImageUrl" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Name</h5>
+                        <p class="card-text">@Model.Designation</p>
+                        <p class="card-text">@Model.FbLink</p>
+                        <p class="card-text">@Model.InstaLink</p>
+                        <p class="card-text">@Model.XLink</p>
+                        <input value="@Model.Id" hidden asp-for="@Model.Id"/>
+                        <a asp-action="Index" class="btn btn-info">Go Back</a>
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+

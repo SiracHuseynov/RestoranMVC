@@ -1,0 +1,47 @@
+﻿@using Restorann.Core.Models;
+@model Chef
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form method="post" asp-action="Create" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Name</label>
+                    <input asp-for="Name" class="form-control" id="exampleInputEmail1" placeholder="Name">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Designation</label>
+                    <input asp-for="Designation" class="form-control" id="exampleInputEmail1" placeholder="Designation">
+                    <span asp-validation-for="Designation" class="text-danger"></span>
+
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">FbLink</label>
+                    <input asp-for="FbLink" class="form-control" id="exampleInputEmail1" placeholder="FbLink">
+                    <span asp-validation-for="FbLink" class="text-danger"></span>
+
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">InstaLink</label>
+                    <input asp-for="InstaLink" class="form-control" id="exampleInputEmail1" placeholder="InstaLink">
+                    <span asp-validation-for="InstaLink" class="text-danger"></span>
+
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">XLink</label>
+                    <input asp-for="XLink" class="form-control" id="exampleInputEmail1" placeholder="XLink">
+                    <span asp-validation-for="XLink" class="text-danger"></span> 
+
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Image</label>
+                    <input asp-for="ImageFile" class="form-control" id="exampleInputEmail1" placeholder="Image">
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div> 
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
